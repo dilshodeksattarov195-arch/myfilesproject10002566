@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configvncrypt",
+        "uuid": 12976262,
+        "checksum": "a5krm4"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
